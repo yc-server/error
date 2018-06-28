@@ -1,4 +1,4 @@
-import { handleError } from '../src/error';
+import { handleError } from '../src/';
 import * as boom from 'boom';
 
 console.log = jest.fn();
